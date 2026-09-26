@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/ForceLguRefund. This repo is archived and read-only; full history was preserved there.
+
 # ForceLguRefund
 
 Companion for [malco Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/). Forces the LGU refund UI on so you can sell back an upgrade level.
